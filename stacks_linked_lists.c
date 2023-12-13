@@ -8,7 +8,7 @@ struct Node {
 
 struct Node* top = NULL;
 
-// Function prototypes
+
 void push(int item);
 void pop();
 void peek();
